@@ -89,10 +89,10 @@ let swiper = new Swiper(".swiper-container", {
 });
 
 /*==================== CONTACT ====================*/
-let message = document.querySelector('#btn--send')
-message.addEventListener('click', () => {
-    alert('Thanks for contacting me! I will get back to you soon!')
-})
+// let message = document.querySelector('#btn--send')
+// message.addEventListener('click', () => {
+//     alert('Thanks for contacting me! I will get back to you soon!')
+// })
 
 
 /*==================== TESTIMONIAL ====================*/
