@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://boa-im.github.io/sitemap.xml

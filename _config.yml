@@ -228,3 +228,7 @@ jekyll-archives:
 
 jekyll_compose:
   auto_open: true
+  default_front_matter:
+    posts:
+      category: []
+      tags: []
