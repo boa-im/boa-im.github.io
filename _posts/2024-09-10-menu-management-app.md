@@ -34,55 +34,55 @@ To run the app locally, you must have:
 
 ## Pages
 ---
-1. Homepage
-![homepage](https://github.com/boa-im/Menu_Management_App/blob/master/img/1.png)
+#### 1. Homepage
+![homepage](https://raw.githubusercontent.com/boa-im/Menu_Management_App/master/img/1.png){: width="200"}   
 In this page, customers can see the restaurant's name, description, and location via **Goolge Maps**.
 
-2. Reservation
-![reservation](https://github.com/boa-im/Menu_Management_App/blob/master/img/2.png)
+#### 2. Reservation
+![reservation](https://raw.githubusercontent.com/boa-im/Menu_Management_App/master/img/2.png){: width="200"}   
 Customers can check their reservations by entering their reservation number.   
 And the manager of the restuarant can clear all reservation for memories.
 
-3. Make a reseravtion
-![make a reservation](https://github.com/boa-im/Menu_Management_App/blob/master/img/3.png)
+#### 3. Make a reseravtion
+![make a reservation](https://raw.githubusercontent.com/boa-im/Menu_Management_App/master/img/3.png){: width="200"}   
 Customers need to enter name, email, the number of people, expected date of visit, and time to make a reservation.
 After clicking **Add** button, the customer will get an reservation number to modify, check, delete the reservation.
 
-4. Modify the reservation
-![modify the reservation](https://github.com/boa-im/Menu_Management_App/blob/master/img/4.png)
+#### 4. Modify the reservation
+![modify the reservation](https://raw.githubusercontent.com/boa-im/Menu_Management_App/master/img/4.png){: width="200"}      
 If customers enter a right number of reservation, this app will take you this page.
 Them, customer can modify all the reservation info or cancle the reservation.
 
-5. Menu
-![menu](https://github.com/boa-im/Menu_Management_App/blob/master/img/5.png)
+#### 5. Menu
+![menu](https://raw.githubusercontent.com/boa-im/Menu_Management_App/master/img/5.png){: width="200"}   
 This page is showing all menus added by restaurant's owner.
 If customers click the **Order** button, this app will navigate customers to order page
 
-6. Order
-![order](https://github.com/boa-im/Menu_Management_App/blob/master/img/6.png)
+#### 6. Order
+![order](https://raw.githubusercontent.com/boa-im/Menu_Management_App/master/img/6.png){: width="200"}   
 Customers can select an option like spicy, gluten free, lactose free, etc..
 or, can type special instruction!   
 **Back to Order** is to cancle to make an order. **Check the Cart** is to check the cart without ordering.
 
-7. Cart
-![cart](https://github.com/boa-im/Menu_Management_App/blob/master/img/7.png)
+#### 7. Cart
+![cart](https://raw.githubusercontent.com/boa-im/Menu_Management_App/master/img/7.png){: width="200"}   
 Cutomers can check what they ordered. They can clear the cart and continue to order using buttons.
 
-8. Log In 
-![login](https://github.com/boa-im/Menu_Management_App/blob/master/img/8.png)
+#### 8. Log In
+![login](https://raw.githubusercontent.com/boa-im/Menu_Management_App/master/img/8.png){: width="200"}   
 Mainly, this app is non-login based. But manager of the restaurant have their own account to manage menus.
 In this app, the username and password are already set.
 If you want to try this you can use with:
 - Username: admin
 - Password: admin
 
-9. Manage Menus
-![manage](https://github.com/boa-im/Menu_Management_App/blob/master/img/9.png)
+#### 9. Manage Menus
+![manage](https://raw.githubusercontent.com/boa-im/Menu_Management_App/master/img/9.png){: width="200"}   
 After successfully logging in as a admin, you can see this page.   
 Admin can add a menu using **Add a Menu** buttton, modify the food's name, description and price, and delete a item.
 
-10. Add/Modify a Menu
-![add a item](https://github.com/boa-im/Menu_Management_App/blob/master/img/10.png)
+#### 10. Add/Modify a Menu
+![add a item](https://raw.githubusercontent.com/boa-im/Menu_Management_App/master/img/10.png){: width="200"}   
 Admin can add/modify a menu using this format. Course has 3 options right now; Appeitizers, Main, and Dessert.
 
 ## Demo
