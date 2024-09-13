@@ -26,11 +26,13 @@ It means if I am owner of a restuarant and I want to order food from my restaura
 To run the app locally, you must have:
 - Android Studio
 - Angular
-- JDK 8.* .  
+- JDK 8.*
+
 **Stpes:**
 1. Clone the repository:
 **_`https://github.com/boa-im/Menu_Management_App.git`_**
-2. Run this app using Android Emulator 
+2. Make sure you have the environment variable named 'JAVA_HOME' and 'path'
+3. Run this app using Android Emulator 
 
 ## Pages
 ---
