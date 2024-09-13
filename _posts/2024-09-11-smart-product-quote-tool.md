@@ -8,9 +8,8 @@ tags: [C#, ASP.NET core, Microsoft SQL Server, Bootstrap]
 
 ## Introduction
 ---
-Smart Product Quote Tool is a web app developed for [**Smart Cities Hackathon**](https://2023.senecahackathon.com) from Seneca College. 
-I led a team of 4 and worked as a **full stack developer**.
-This project is made for [**Mircom**](https://mircom.com) that only have offline shopping mall.
+Worked as: **Leader, Full Stack Develeoper**   
+Smart Product Quote Tool is a web app developed for [**Smart Cities Hackathon**](https://2023.senecahackathon.com) from Seneca College. This project is made for [**Mircom**](https://mircom.com) that only have offline shopping mall.
 
 ## Background Knowledge
 ---
@@ -62,6 +61,11 @@ Admin can add a new model, edit the existing item, and delete the item.
 Admin can add a new model with level, name, description, list price, PV Code, and Quantity.
 Or they can edit the existing model.
 In this page, quantity means how many items admin can sell (how many item admin have in stock).
+
+## Demo
+---
+You can watch the demo video. 
+<a href="https://drive.google.com/file/d/1ilFOvAYVsRdKsSZs-_MuO7e9DQVa_HgY/view?usp=sharing" target="_blank">Click Me!</a>
 
 ## Conclusion
 ---

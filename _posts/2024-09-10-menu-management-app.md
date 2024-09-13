@@ -8,6 +8,7 @@ tags: [Android, Angular, TypeScript, Bootstrap, Web SQL, HTML, Google Map API]
 
 ## Introduction
 ---
+Worked as: **Full Stack Develeoper**   
 Menu managment app is an Android app to combine all features into one app for restaurants and customers.
 
 ## Research
@@ -89,7 +90,8 @@ Admin can add/modify a menu using this format. Course has 3 options right now; A
 
 ## Demo
 ---
-You can watch the demo video. [Click Me!](https://drive.google.com/file/d/1PnR5tDLSYYv5vBsd2ymkVH4h51ItoHrp/view?usp=sharing)
+You can watch the demo video. 
+<a href="https://drive.google.com/file/d/1PnR5tDLSYYv5vBsd2ymkVH4h51ItoHrp/view?usp=sharing" target="_blank">Click Me!</a>
 
 ## SWOT Analysis
 ---
