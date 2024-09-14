@@ -21,7 +21,7 @@ Bachelor of Science in Biology
 ---
 **Server** • The Famous Owl of Minerva
 &emsp;&emsp;&emsp;&emsp;05/2023 - Present
-- Manage and update the **Tip Calculator** by getting feedback from co-workers
+- Manage and update the [**Tip Calculator**](/posts/tip-calculator) by getting feedback from co-workers
 - Utilize communication skills to quickly identify and understand customer needs
 
 **Math Instructor** • Korea Academy
