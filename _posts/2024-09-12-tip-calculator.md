@@ -68,9 +68,9 @@ I sold this project to my boss for $100💰
 
 My coworkers and I use this program every night. So, I'm still getiing feedback from them. Basically, the reason this project named V2, is that I upgraded this project in July 2024.
 While using previous app, We faced 2 problems.
-1. Part 4 was needed.
-: For example, 1 server worked between 11am to 4pm, another server worked between 4pm to 6pm, 2 servers worked between 6pm to 9pm, and 1 server work 9pm to 11pm.
-2. If I press 'Tab' to go next text box, the cursor goes somewhere that I didn't want to go.
+1. Part 4 was needed.   
+For example, 1 server worked between 11am to 4pm, another server worked between 4pm to 6pm, 2 servers worked between 6pm to 9pm, and 1 server work 9pm to 11pm.
+2. If I pressed 'Tab' to go next text box, the cursor went somewhere that I didn't want to go.
 
 To solve this problems:
 1. I added one more part. So, there are 4 parts now!
