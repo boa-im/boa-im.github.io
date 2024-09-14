@@ -40,7 +40,7 @@ To run the app locally, you must have:
 ```shell
 $ update-database
 ```
-3. Run the server in visual studio (Ctrl+F5)
+3. Run the server in visual studio (Ctrl + F5)
 4. Run the client in visual studio code
 
 ## Pages

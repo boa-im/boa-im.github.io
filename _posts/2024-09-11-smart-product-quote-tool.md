@@ -31,32 +31,32 @@ To run the app locally, you must have:
 ```shell
 $ update-database
 ```
-3. Run the program. (Ctrl+F5)
+3. Run the program. (Ctrl + F5)
 4. You can check the database in 'View -> SQL Server Object Explorer'
 
 ## Pages
 ---
-#### Log In
+#### 1. Log In
 ![login](https://raw.githubusercontent.com/boa-im/SmartProductQuoteTool_TeamK/master/img/4.png)
 Customers can log in with provided username and password.
 By clicking the check box **'Remember Me'** then it would automatically type your username and password when you sign out and want to log in again.
 
-#### Items List
+#### 2. Items List
 ![login](https://raw.githubusercontent.com/boa-im/SmartProductQuoteTool_TeamK/master/img/2.png)
 After loggin in, the customer can see the item name, description, original price and discounted price.
 Items can be added into the customer's cart via **Add to cart** button.
 
-#### Cart
+#### 3. Cart
 ![login](https://raw.githubusercontent.com/boa-im/SmartProductQuoteTool_TeamK/master/img/3.png)
 In the cart page, the customer can modify the quantity of the item or delete the item.
 It is because this customer added a level 2 item, this system is suggesting this customer level 3 items.
 
-#### Admin Log In
+#### 4. Admin Log In
 ![login](https://raw.githubusercontent.com/boa-im/SmartProductQuoteTool_TeamK/master/img/5.png)
 By loggin in as a admin, the **'Admin'** button is now visable at the top right.
 Admin can add a new model, edit the existing item, and delete the item.
 
-#### Add/Edit Model
+#### 5. Add/Edit Model
 ![login](https://raw.githubusercontent.com/boa-im/SmartProductQuoteTool_TeamK/master/img/6.png)
 Admin can add a new model with level, name, description, list price, PV Code, and Quantity.
 Or they can edit the existing model.
