@@ -90,50 +90,63 @@ string[,] 2dArray = new string[2,2]; // 2 * 2 array
 ```
 
 ## Example Problem
-Let's solve [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)!
+---
+Let's solve [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)!
 
 **Problem Description:**   
-Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must appear as many times as it shows in both arrays and you may return the result in any order.
-
+Given an integer n, return a string array answer (1-indexed) where:   
+answer[i] == "FizzBuzz" if i is divisible by 3 and 5.   
+answer[i] == "Fizz" if i is divisible by 3.   
+answer[i] == "Buzz" if i is divisible by 5.   
+answer[i] == i (as a string) if none of the above conditions are true.
+ 
 Example 1:   
-Input: nums1 = [1,2,2,1], nums2 = [2,2]   
-Output: [2,2]
+Input: n = 3 .  
+Output: ["1","2","Fizz"]
 
 Example 2:   
-Input: nums1 = [4,9,5], nums2 = [9,4,9,8,4]   
-Output: [4,9]   
-Explanation: [9,4] is also accepted.
- 
-Constraints:   
-1 <= nums1.length, nums2.length <= 1000   
-0 <= nums1[i], nums2[i] <= 1000
+Input: n = 5   
+Output: ["1","2","Fizz","4","Buzz"]
 
+Example 3:   
+Input: n = 15   
+Output: ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13","14","FizzBuzz"]
+
+Constraints:   
+1 <= n <= 104
 
 ```shell
 public class Solution {
-    public int[] Intersect(int[] nums1, int[] nums2) {
-        // List Declaring - To be posted
-        List<int> result = new List<int>();
+    public IList<string> FizzBuzz(int n) {
+        // Declare a string List to return
+        List<string> result = new List<string>();
 
-        // Declare a new array to save nums1
-        int[] nums3 = nums1;
-        
-        // this for loop will compare elements nums3 and nums2
-        foreach(int i in nums2) {
-            // save index of element
-            // if nums3 doesn't have i, then i will return -1
-            int index = Array.IndexOf(nums3, i);
+        for(int i = 1; i <= n; i++) {
+            // If i can be divisible by 3, isDivisibleByThree will be true
+            bool isDivisibleByThree = i % 3 == 0;
+            // If i can be divisible by 5, isDivisibleByFive will be true
+            bool isDivisibleByFive = i % 5 == 0;
 
-            // if nums3 include i, add the element into result list
-            if(index > -1) {
-                result.Add(nums3[index]);
-                // to avoid duplicate I modifed the element value
-                nums3[index] = -1;
+            // i can be divisible by only 3
+            if(isDivisibleByThree && !isDivisibleByFive) {
+                result.Add("Fizz");
+            }
+            // i can be divisible by only 5
+            else if(!isDivisibleByThree && isDivisibleByFive) {
+                result.Add("Buzz");
+            }
+            // i can be divisible by 3 and 5
+            else if(isDivisibleByThree && isDivisibleByFive) {
+                result.Add("FizzBuzz");
+            }
+            // i cannot be divisible by 3 or 5
+            else {
+                // i % 3 != 0 && i % 5 != 0
+                result.Add(i.ToString());
             }
         }
-        
-        // this method needs int array to return. so convert list to array.
-        return result.ToArray();
+
+        return result;
     }
 }
 ```
