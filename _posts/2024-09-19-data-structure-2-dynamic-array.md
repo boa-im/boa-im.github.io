@@ -3,7 +3,7 @@ layout: post
 title: Data Structure(2) - Dynamic Array
 date: 2024-09-19 15:26 -0400
 category: [Study, Data Structure]
-tags: [C#, Data Structure, Dynamic Array]
+tags: [C#, Data Structure, Dynamic Array, ArrayList, List]
 ---
 
 ## What is Dynamic Array?
