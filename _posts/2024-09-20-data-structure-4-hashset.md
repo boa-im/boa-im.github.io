@@ -9,10 +9,13 @@ tags: [C#, Data Structure, HashSet]
 ## What is HashSet?
 ---
 To know about HashSet, we need to understand what the `Hash` and `Set` are.
+
 Hash
 : Hash is a way to save and search data quickly using hash function. When users input some data, hash function calculate the hash code and save proper location. And when users search that data, system use the hash code to search quickly.
+
 Set
 : Set is a collection of non-duplicate elements. Whenever users try to enter same value to set, it won't be saved to Set.
+
 HashSet
 : HashSet can be use to prevent duplicate values and to save or search fast.
 
