@@ -148,3 +148,8 @@ public class Solution {
     }
 }
 ```
+
+## What's the next?   
+---
+> We will study more about Circular Queue, Priority Queue, and Deque later.   
+> And, we will try to implement Queue.

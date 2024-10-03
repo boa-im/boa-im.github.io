@@ -116,7 +116,7 @@ public class Solution {
         // result points a first node in a list
         ListNode result = new ListNode();
         // current works as a cursor and points the same node with result
-        ListNode current = dummy;
+        ListNode current = result;
 
         while(list1 != null && list2 != null)
         {
