@@ -56,6 +56,16 @@ public class Solution {
 }
 ```
 
+#### Runtime
+**0** ms / Beats **100.00%**
+
+#### Memory
+**42.50** MB / Beats **53.94%**
+
+#### Big O Notation
+Time complexity: **O(n)**   
+Space complexity: **O(1)**
+
 ## Reflection
 ---
 Don't think too hard.
