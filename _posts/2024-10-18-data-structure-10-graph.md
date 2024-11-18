@@ -96,7 +96,7 @@ Explanation: There are 4 nodes in the graph.
 4th node (val = 4)'s neighbors are 1st node (val = 1) and 3rd node (val = 3).
 
 Example 2:
-![example2](assets/img/data-structure-10/graph2.png)   
+![example2](assets/img/data-structure-10/133-2.png)   
 Input: adjList = [[]]   
 Output: [[]]   
 Explanation: Note that the input contains one empty list. The graph consists of only one node with val = 1 and it does not have any neighbors.
