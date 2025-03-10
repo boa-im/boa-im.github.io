@@ -4,6 +4,7 @@ title: Bears Kitchen
 date: 2024-09-12 00:52 -0400
 category: [Project, Web App]
 tags: [C#, ASP.NET core, REST API, Swagger, Google Cloud Platform(GCP), OAuth2, YouTube API, Google Vertex AI API, xUnit, Selenium, Microsoft SQL Server]
+pin: true
 ---
 
 ## Introduction

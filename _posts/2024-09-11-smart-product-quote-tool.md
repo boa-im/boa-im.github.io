@@ -4,6 +4,7 @@ title: Smart Product Quote Tool
 date: 2024-09-11 01:34 -0400
 category: [Project, Web App]
 tags: [C#, ASP.NET core, Microsoft SQL Server, Bootstrap]
+pin: true
 ---
 
 ## Introduction

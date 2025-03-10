@@ -4,6 +4,7 @@ title: Menu Management App
 date: 2024-09-10 12:41 -0400
 category: [Project, Mobile App]
 tags: [Android, Angular, TypeScript, Bootstrap, Web SQL, HTML, Google Map API]
+pin: true
 ---
 
 ## Introduction

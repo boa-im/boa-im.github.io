@@ -4,6 +4,7 @@ title: Tip Calculator
 date: 2024-09-12 11:16 -0400
 category: [Project, Web App]
 tags: [C#, Windows Forms]
+pin: true
 ---
 
 ## Introduction
